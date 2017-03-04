@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Batch Run" duration-ms="25582" started-at="2017-03-03T23:38:28Z" finished-at="2017-03-03T23:38:53Z">
+    <groups>
+    </groups>
+    <test name="CookCounty" duration-ms="25582" started-at="2017-03-03T23:38:28Z" finished-at="2017-03-03T23:38:53Z">
+      <class name="com.testing.project.Firefox_Browser">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.testing.project.Firefox_Browser@4157f54e]" name="test" duration-ms="25548" started-at="2017-03-03T18:38:28Z" finished-at="2017-03-03T18:38:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.testing.project.Firefox_Browser -->
+    </test> <!-- CookCounty -->
+  </suite> <!-- Batch Run -->
+</testng-results>

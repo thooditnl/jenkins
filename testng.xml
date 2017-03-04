@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Batch Run" >
+		<test name="Jenkins" enabled="true" preserve-order="true">
+			<classes>
+				<class name="com.testing.project.Firefox_Browser"/>
+			</classes>
+		</test>
+</suite>
+

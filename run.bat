@@ -1,0 +1,1 @@
+java -cp bin;libs/* org.testng.TestNG -suitethreadpoolsize 3 testng.xml
